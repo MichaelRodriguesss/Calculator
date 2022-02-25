@@ -55,6 +55,7 @@ body {
 
 .calculator--button:hover {
   background-color: rgb(70, 65, 65);
+  transition: 0.2s;
 }
 
 .span--button {
